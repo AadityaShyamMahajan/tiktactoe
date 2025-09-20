@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 //import javax.swing.SwingConstants;
-
+//Add comment
 
 
 public class myGame extends JFrame {
@@ -42,6 +42,7 @@ public class myGame extends JFrame {
         
         //north heading..
         heading =new JLabel("Tic Tac Toe");
+        heading.setIcon(new ImageIcon("src/img/"))
         heading.setFont(font);
         heading.setHorizontalAlignment(swingConstants.CENTER);
         heading.setForeground(Color.white);
