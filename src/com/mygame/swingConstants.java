@@ -11,5 +11,8 @@ package com.mygame;
 class swingConstants {
 
     static int CENTER;
+    static int BOTTOM;
+    static int RIGHT;
+    
     
 }
